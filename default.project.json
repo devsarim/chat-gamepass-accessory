@@ -1,0 +1,12 @@
+{
+  "name": "chat-gamepass-accessory",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "AccessoryServer": {
+        "$path": "src/server"
+      }
+    }
+  }
+}
